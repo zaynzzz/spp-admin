@@ -1,2 +1,5 @@
-# spp_ci
-Aplikasi Pembayaran SPP sekolah
+SPP-Admin
+Aplikasi Pembayaran SPP Sekolah
+
+# By Zairul Antasya Zein
+
